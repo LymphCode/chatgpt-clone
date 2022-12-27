@@ -1,2 +1,2 @@
 # My personal ChatGPT AI application 
-![Open AI CodeGPT](https://chatgpt-clone-orpin.vercel.app/)
+Check out the website! [Click here!](https://chatgpt-clone-orpin.vercel.app/)
